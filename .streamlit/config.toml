@@ -1,0 +1,15 @@
+# .streamlit/config.toml
+
+[theme]
+base="light"
+primaryColor="#1c77c3"
+backgroundColor="#f4f6f8"
+secondaryBackgroundColor="#ffffff"
+textColor="#000000"
+font="sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+port = 8501
