@@ -238,8 +238,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 
-**Author**: Siddhant  
-GitHub: [@yourusername](https://github.com/yourusername)  
-Email: your.email@example.com  
+**Author**: Siddheshwar Wagawad
+GitHub: [@thesiddheshh](https://github.com/thesiddheshh)  
+Email: siddhwagawad@gmail.com 
 
-For suggestions, improvements, or issues, feel free to open a [GitHub Issue](https://github.com/yourusername/pdf-rag-chatbot/issues).
+For suggestions, improvements, or issues, feel free to open a [GitHub Issue](https://github.com/thesiddheshh/multi-pdf-qa-chatbot/issues).
