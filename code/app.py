@@ -155,7 +155,7 @@ def download_chat(chat_history):
     return txt
 
 def query_openrouter_llm(prompt, context):
-    api_key = "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"
+    api_key = "#add_your_api_key"
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
