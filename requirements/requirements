@@ -1,7 +1,0 @@
-streamlit
-PyMuPDF
-faiss-cpu
-numpy
-sentence-transformers
-transformers
-requests
