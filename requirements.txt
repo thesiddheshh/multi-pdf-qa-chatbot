@@ -1,3 +1,5 @@
+--extra-index-url https://pypi.fury.io/justfaiss/
+
 streamlit==1.35.0
 PyMuPDF==1.24.1
 faiss-cpu==1.7.4
