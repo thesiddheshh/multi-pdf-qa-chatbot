@@ -2,6 +2,8 @@
 
 A fully functional, locally hosted chatbot that allows users to upload one or more PDF documents and engage in natural language conversations with their content. Built using Streamlit, Hugging Face Transformers, FAISS, SentenceTransformers, and OpenRouter’s Mistral-7B-Instruct model, this tool demonstrates how Retrieval-Augmented Generation (RAG) can be applied to interactive document question answering.
 
+[![Watch the demo](https://img.youtube.com/vi/yWD0cHpQHJ8/maxresdefault.jpg)](https://youtube.com/shorts/yWD0cHpQHJ8)
+
 ---
 
 ## Table of Contents
